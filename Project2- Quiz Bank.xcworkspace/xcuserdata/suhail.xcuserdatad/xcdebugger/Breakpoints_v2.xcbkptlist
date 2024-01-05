@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A19C2526-14AD-490A-A880-D4687D6705D1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B7EFD10-607C-4128-B5A7-72ED52A209DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project2- Quiz Bank/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B7EFD10-607C-4128-B5A7-72ED52A209DE - 4a162ef6e16bb436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project2__Quiz_Bank.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Project2- Quiz Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-12-%20Quiz%20Bank%20FireStore/Project2-%20Quiz%20Bank/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "4B7EFD10-607C-4128-B5A7-72ED52A209DE - eadbf96bca4f818e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Project2__Quiz_Bank.QuestionsCD&gt;) -&gt; () in Project2__Quiz_Bank.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Project2- Quiz Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-12-%20Quiz%20Bank%20FireStore/Project2-%20Quiz%20Bank/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "8C55EC11-8E85-44A4-B7AD-94B38BFFA436"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "732A4A7A-0F35-4896-824F-31FB83627183"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project2- Quiz Bank/Model/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "fetchCachedQuestions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "732A4A7A-0F35-4896-824F-31FB83627183 - d2b49da2c88b2e48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project2__Quiz_Bank.DatabaseManager.fetchCachedQuestions(completion: (Swift.Optional&lt;Swift.Array&lt;Project2__Quiz_Bank.QuestionsCD&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Project2- Quiz Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-12-%20Quiz%20Bank%20FireStore/Project2-%20Quiz%20Bank/Model/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "732A4A7A-0F35-4896-824F-31FB83627183 - eadb20051f8d7eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project2__Quiz_Bank.DatabaseManager.fetchCachedQuestions() -&gt; Swift.Optional&lt;Swift.Array&lt;Project2__Quiz_Bank.QuestionsCD&gt;&gt;"
+                  moduleName = "Project2- Quiz Bank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-12-%20Quiz%20Bank%20FireStore/Project2-%20Quiz%20Bank/Model/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
